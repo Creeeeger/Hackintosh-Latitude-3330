@@ -1,5 +1,6 @@
 # Hackintosh-Latitude-3330
 Hackintosh project for the Dell Latitude 3330. 
+(Intel® Core™ ix-11xxGx )
 
 Based on OpenCore 0.9.2
 
